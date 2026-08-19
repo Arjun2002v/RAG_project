@@ -1,0 +1,15 @@
+# Core RAG orchestration
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+
+# Vector store
+chromadb
+
+# Document loading
+pypdf
+unstructured
+
+# Utilities
+python-dotenv
